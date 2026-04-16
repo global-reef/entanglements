@@ -1,7 +1,4 @@
 ### 00_RUN.R ####
-
-rm(list = ls())
-
 library(tidyverse)
 
 analysis_date <- format(Sys.Date(), "%Y_%m_%d")
@@ -60,6 +57,7 @@ writeLines(
 
 ### run pipeline ####
 source("01_CLEAN.R")
+source("01.5_JOIN.R")
 source("02_EXPLORE.R")
 source("03_MODEL.R")
 

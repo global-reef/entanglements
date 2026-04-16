@@ -25,14 +25,16 @@ entanglements_clean <- fish %>%
     depth_min_m = `Depth MIN (m)`,
     depth_max_m = `Depth MAX (m)`,
     taxon_raw = `Full Name`,
-    family = Family,
-    category = Category,
+    family_raw = Family,
+    category_raw = Category,
     n_alive = `Living animals`,
     n_dead = `Dead animals`,
     n_indiv = `Total Number of Animals`
   ) %>%
   mutate(
     date = parse_date_time(date, orders = c("dmy", "ymd", "mdy")),
+    
+    taxon_raw = str_squish(str_replace_all(taxon_raw, "[\r\n]+", " ")),
     
     gear_type = case_when(
       str_detect(gear_type, regex("net", TRUE)) ~ "net",
@@ -43,12 +45,6 @@ entanglements_clean <- fish %>%
       TRUE ~ "other"
     ),
     
-    sci_name = case_when(
-      is.na(taxon_raw) ~ NA_character_,
-      str_detect(taxon_raw, regex("unid|unknown|fish \\(unid\\)", TRUE)) ~ NA_character_,
-      TRUE ~ taxon_raw
-    ),
-    
     status = case_when(
       n_alive > 0 & n_dead > 0 ~ "mixed",
       n_alive > 0 ~ "alive",
@@ -56,14 +52,11 @@ entanglements_clean <- fish %>%
       TRUE ~ NA_character_
     )
   ) %>%
-  
-  # IMPORTANT: keep only actual entanglements
   filter(n_indiv > 0) %>%
-  
   select(
     survey_id, date, site, location, province,
     gear_type, depth_min_m, depth_max_m,
-    sci_name, taxon_raw, family, category,
+    taxon_raw, family_raw, category_raw,
     n_alive, n_dead, n_indiv, status
   )
 
@@ -101,59 +94,33 @@ category_lookup <- read_excel(
 write_csv(category_lookup, "data_clean/category_lookup.csv")
 
 ### 03. functional_lookup ####
-
 functional_lookup <- entanglements_clean %>%
-  distinct(sci_name, taxon_raw, family, category) %>%
+  distinct(taxon_raw, family_raw, category_raw) %>%
   left_join(
-    category_lookup %>%
-      select(
-        taxon_raw, family,
-        category_code, category,
-        functional_group, ecosystem_role, ecosystem_benefit
-      ),
-    by = c("taxon_raw", "family")
-  ) %>%
-  mutate(
-    # prefer decoded category from FishDataset if available
-    category = coalesce(category.y, category.x),
-    category_code = coalesce(category_code, category.x),
-    
-    trophic_group = NA_character_,
-    herbivore_class = NA_character_,
-    predator_class = NA_character_,
-    functional_source = "MARsCI_FishDataset",
-    notes = NA_character_
+    category_lookup,
+    by = c("taxon_raw")
   ) %>%
   mutate(
     trophic_group = case_when(
       str_detect(functional_group, regex("herbivore", TRUE)) ~ "herbivore",
       str_detect(functional_group, regex("planktivore", TRUE)) ~ "planktivore",
-      str_detect(functional_group, regex("piscivore", TRUE)) ~ "piscivore",
+      str_detect(functional_group, regex("piscivore|mesopredator|predator", TRUE)) ~ "piscivore",
       str_detect(functional_group, regex("invertivore", TRUE)) ~ "invertivore",
       category_code %in% c("A", "B") ~ "piscivore",
       category_code == "C" ~ "planktivore",
       TRUE ~ NA_character_
     ),
-    
     herbivore_class = case_when(
-      trophic_group != "herbivore" ~ NA_character_,
-      str_detect(taxon_raw, regex("rabbitfish|sigan", TRUE)) ~ "high",
-      TRUE ~ "medium"
+      trophic_group == "herbivore" & str_detect(taxon_raw, regex("rabbitfish|sigan", TRUE)) ~ "high",
+      trophic_group == "herbivore" ~ "medium",
+      TRUE ~ NA_character_
     ),
-    
     predator_class = case_when(
-      trophic_group != "piscivore" ~ NA_character_,
-      category_code == "A" ~ "midwater_predator",
-      category_code == "B" ~ "demersal_predator",
-      TRUE ~ "predator"
+      trophic_group == "piscivore" & category_code == "A" ~ "midwater_predator",
+      trophic_group == "piscivore" & category_code == "B" ~ "demersal_predator",
+      trophic_group == "piscivore" ~ "predator",
+      TRUE ~ NA_character_
     )
-  ) %>%
-  select(
-    sci_name, taxon_raw, family,
-    category_code, category,
-    functional_group, trophic_group, herbivore_class, predator_class,
-    ecosystem_role, ecosystem_benefit,
-    functional_source, notes
   )
 
 write_csv(functional_lookup, "data_raw/functional_lookup.csv")
@@ -210,7 +177,7 @@ aesthetic_lookup <- read_csv("data_raw/aesthetic_source_table.csv", show_col_typ
     notes
   )
 
-# write_csv(aesthetic_lookup, "data_raw/aesthetic_lookup.csv") # ONLY DO THIS ONCE OR IT OVERRIDES THE MANUAL ANNOTATION 
+# write_csv(aesthetic_lookup, "data_raw/aesthetic_lookup.csv")
 
 ## MANUALLY annotated lookup table with equivalent matches logic ### 
 aesthetic_lookup <- read_csv("data_raw/aesthetic_lookup.csv", show_col_types = FALSE) %>%
@@ -249,7 +216,7 @@ aesthetic_lookup <- read_csv("data_raw/aesthetic_lookup.csv", show_col_types = F
     )
   )
 
-# write_csv(aesthetic_lookup, "data_raw/aesthetic_lookup.csv") # ONLY DO THIS ONCE OR IT OVERRIDES THE MANUAL ANNOTATION OF PROXY/DIRECT
+write_csv(aesthetic_lookup, "data_raw/aesthetic_lookup.csv") 
 
 ### 06. ESVD values  ####
 
@@ -308,3 +275,36 @@ write_csv(
   "data_raw/reference_lookup.csv"
 )
 
+
+### 11. market values ####
+market_values_summary <- read_csv("data_raw/market_values.csv", show_col_types = FALSE) %>%
+  
+  pivot_longer(
+    cols = starts_with("thb_"),
+    values_to = "price_thb",
+    values_drop_na = TRUE
+  ) %>%
+  
+  filter(price_thb > 0) %>%
+  
+  group_by(taxon_raw) %>%
+  summarise(
+    price_min_thb = min(price_thb, na.rm = TRUE),
+    price_max_thb = max(price_thb, na.rm = TRUE),
+    price_mean_thb = mean(price_thb, na.rm = TRUE),
+    price_sd_thb = sd(price_thb, na.rm = TRUE),
+    price_n = n(),
+    .groups = "drop"
+  )
+write_csv(market_values_summary, "data_clean/market_values_summary.csv")
+
+market_values_long <- read_csv("data_raw/market_values.csv", show_col_types = FALSE) %>%
+  
+  pivot_longer(
+    cols = starts_with("thb_"),
+    values_to = "price_thb",
+    values_drop_na = TRUE
+  ) %>%
+  
+  filter(price_thb > 0)
+write_csv(market_values_long, "data_clean/market_values_long.csv")

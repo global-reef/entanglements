@@ -1,0 +1,8 @@
+taxon_raw,price_min_thb,price_max_thb,price_mean_thb,price_sd_thb,price_n
+Barracuda,100,150,125.2,20.639767440550298,25
+Batfish,150,150,150,NA,1
+Grouper,120,300,221.25,65,16
+Rabbitfish,100,100,100,0,5
+Russel's snapper (Lutjanus rusellii),150,150,150,0,8
+Trevally,150,200,188.75,18.07721533549109,8
+Yellow-Stripe Trevally,100,100,100,0,4

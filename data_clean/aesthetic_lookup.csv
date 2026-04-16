@@ -1,21 +1,21 @@
-equivalent_taxon,tribot_2018_taxon,langlois_2022_taxon,Match,quantity,tribot_2018_score,langlois_2022_score,aesthetic_score_mean,score_source,assumption_level,notes
+taxon_raw,tribot_2018_taxon,langlois_2022_taxon,Match,quantity,tribot_2018_score,langlois_2022_score,aesthetic_score_mean,score_source,assumption_level,notes
 Dusky Rabbitfish,Acanthurus tristis Ð Indian Ocean Mimic Surgeonfish,Siganus luridus - Dusky Rabbitfish,L,1,1371.509794,1446,1446,Langlois et al. 2022,direct,Langlois value used
 Pufferfish,Arothron nigropunctatus Ð Dog-faced Puffer,Arothron nigropunctatus - Dog-faced Puffer,B,1,1369.430488,1566,1467.715244,Tribot et al. 2018; Langlois et al. 2022 (exact),direct,NA
-Porcupinefsh,Arothron stellatus Ð Starry Puffer,Diodon hystrix - Spotfin Porcupinefish,P,2,1556.809611,1533,1544.904805,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
+Porcupinefish,Arothron stellatus Ð Starry Puffer,Diodon hystrix - Spotfin Porcupinefish,P,2,1556.809611,1533,1544.904805,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
 Barracuda,Aulostomus chinensis Ð Bluespotted Cornetfish,Sphyraena putnamae - Chevron Barracuda,L,1,1321.839191,1298,1298,Langlois et al. 2022,proxy,Langlois proxy used
-Yellow stripe trevally,Caesio lunaris Ð Lunar Fusilier,Selaroides leptolepis - Yellowstripe Scad,L,2,1284.752874,1302,1302,Langlois et al. 2022,direct,Langlois value used
-Fusilier,Caesio xanthonota Ð Yellowback Fusilier,Caesio xanthonota - Yellowback Fusilier,B,1,1437.193658,1490,1463.596829,Tribot et al. 2018; Langlois et al. 2022 (exact),direct,NA
+Yellow-Stripe Trevally,Caesio lunaris Ð Lunar Fusilier,Selaroides leptolepis - Yellowstripe Scad,L,2,1284.752874,1302,1302,Langlois et al. 2022,direct,Langlois value used
+Fusilier fish,Caesio xanthonota Ð Yellowback Fusilier,Caesio xanthonota - Yellowback Fusilier,B,1,1437.193658,1490,1463.596829,Tribot et al. 2018; Langlois et al. 2022 (exact),direct,NA
 Trevally,Caranx melampygus Ð Bluefin Trevally,Carangoides bajad - Orange-spotted Trevally,P,2,1373.527607,1466,1419.763804,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
-Banded Butterflyfish,Chaetodon trifascialis Ð Chevron Butterflyfish,Chaetodon octofasciatus - Eightband Butterflyfish,L,1,1610.986121,1699,1699,Langlois et al. 2022,direct,Langlois value used
+8 Banded Butterflyfish,Chaetodon trifascialis Ð Chevron Butterflyfish,Chaetodon octofasciatus - Eightband Butterflyfish,L,1,1610.986121,1699,1699,Langlois et al. 2022,direct,Langlois value used
 Cardinalfish,Chromis nigroanalis Ð Black-anus Chromis,Apogonichthyoides timorensis - Timor Cardinalfish,P,1,1329.235388,1379,1354.117694,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
 Rabbitfish,Ctenochaetus striatus Ð Striated Surgeonfish,Siganus javus - Java Rabbitfish,L,5,1295.176434,1584,1584,Langlois et al. 2022,proxy,Langlois proxy used
 Damselfish,Dascyllus trimaculatus Ð Domino Damselfish,Dascyllus trimaculatus - Domino Damselfish,B,2,1246.353885,1698,1472.176943,Tribot et al. 2018; Langlois et al. 2022 (exact),direct,NA
 Grouper,Epinephelus areolatus Ð Areolate Grouper,Epinephelus corallicola - Coral Grouper,P,8,1436.010914,1433,1434.505457,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
-Moray Eel,Gymnothorax favagineus Ð Laced Moray,Gymnothorax thyrsoideus - White-edged Moray,P,1,1532.579181,1401,1466.789591,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
-Russel Snapper's,Lutjanus fulviflamma Ð Blacktail Snapper,Lutjanus russellii - Russel's Snapper,L,1,1276.15312,1331,1331,Langlois et al. 2022,direct,Langlois value used
+Moray Eel (Gymnothorax sp.),Gymnothorax favagineus Ð Laced Moray,Gymnothorax thyrsoideus - White-edged Moray,P,1,1532.579181,1401,1466.789591,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
+Russel's snapper (Lutjanus rusellii),Lutjanus fulviflamma Ð Blacktail Snapper,Lutjanus russellii - Russel's Snapper,L,1,1276.15312,1331,1331,Langlois et al. 2022,direct,Langlois value used
 Filefish,Paraluteres prionurus Ð Blacksaddle Filefish,Aluterus scriptus - Scribbled Filefish,L,1,1579.873376,1627,1627,Langlois et al. 2022,direct,Langlois value used
 Scorpionfish,Pterois volitans Ð Red Lionfish,Scorpaenopsis oxycephala - Tasselled Scorpionfish,L,3,1784.87583,1500,1500,Langlois et al. 2022,direct,Langlois value used
 Squirrelfish,Sargocentron praslin Ð Praslin Squirrelfish,Sargocentron rubrum - Redcoat Squirrelfish,P,1,1473.850231,1519,1496.425116,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Proxy match; averaged Tribot and Langlois
-Bream,Scolopsis ghanam Ð Arabian Monocle Bream,Scolopsis ghanam - Arabian Monocle Bream,B,1,1304.878552,1460,1382.439276,Tribot et al. 2018; Langlois et al. 2022 (exact),direct,NA
+Bream Fish,Scolopsis ghanam Ð Arabian Monocle Bream,Scolopsis ghanam - Arabian Monocle Bream,B,1,1304.878552,1460,1382.439276,Tribot et al. 2018; Langlois et al. 2022 (exact),direct,NA
 Batfish,Zanclus cornutus Ð Moorish Idol,Platax teira - Longfin Batfish,L,6,1876.37843,1640,1640,Langlois et al. 2022,direct,Langlois value used
-Unknown Fish,Unknown,Unknown,P,16,1506.198212,1490,1498.099106,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Used an average of all aesthetic values given as the UNK
+Fish (Unid),Unknown,Unknown,P,16,1506.198212,1490,1498.099106,Tribot et al. 2018; Langloiset al. 2022 (proxy),proxy,Used an average of all aesthetic values given as the UNK
