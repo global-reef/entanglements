@@ -1,0 +1,21 @@
+equivalent_taxon,tribot_2018_taxon,langlois_2022_taxon,Match,quantity,tribot_2018_score,langlois_2022_score,aesthetic_score_mean,score_source,assumption_level,notes
+Dusky Rabbitfish,Acanthurus tristis Ð Indian Ocean Mimic Surgeonfish,Siganus luridus - Dusky Rabbitfish,L,1,1371.509794,1446,1408.754897,Tribot2018;Langlois2022,proxy,NA
+Pufferfish,Arothron nigropunctatus Ð Dog-faced Puffer,Arothron nigropunctatus - Dog-faced Puffer,B,1,1369.430488,1566,1467.715244,Tribot2018;Langlois2022,proxy,NA
+Porcupinefsh,Arothron stellatus Ð Starry Puffer,Diodon hystrix - Spotfin Porcupinefish,P,2,1556.809611,1533,1544.904806,Tribot2018;Langlois2022,proxy,NA
+Barracuda,Aulostomus chinensis Ð Bluespotted Cornetfish,Sphyraena putnamae - Chevron Barracuda,L,1,1321.839191,1298,1309.919596,Tribot2018;Langlois2022,proxy,NA
+Yellow stripe trevally,Caesio lunaris Ð Lunar Fusilier,Selaroides leptolepis - Yellowstripe Scad,L,2,1284.752874,1302,1293.376437,Tribot2018;Langlois2022,proxy,NA
+Fusilier,Caesio xanthonota Ð Yellowback Fusilier,Caesio xanthonota - Yellowback Fusilier,B,1,1437.193658,1490,1463.596829,Tribot2018;Langlois2022,proxy,NA
+Trevally,Caranx melampygus Ð Bluefin Trevally,Carangoides bajad - Orange-spotted Trevally,P,2,1373.527607,1466,1419.763804,Tribot2018;Langlois2022,proxy,NA
+Banded Butterflyfish,Chaetodon trifascialis Ð Chevron Butterflyfish,Chaetodon octofasciatus - Eightband Butterflyfish,L,1,1610.986121,1699,1654.993061,Tribot2018;Langlois2022,proxy,NA
+Cardinalfish,Chromis nigroanalis Ð Black-anus Chromis,Apogonichthyoides timorensis - Timor Cardinalfish,P,1,1329.235388,1379,1354.117694,Tribot2018;Langlois2022,proxy,NA
+Rabbitfish,Ctenochaetus striatus Ð Striated Surgeonfish,Siganus javus - Java Rabbitfish,L,5,1295.176434,1584,1439.588217,Tribot2018;Langlois2022,proxy,NA
+Damselfish,Dascyllus trimaculatus Ð Domino Damselfish,Dascyllus trimaculatus - Domino Damselfish,B,2,1246.353885,1698,1472.176943,Tribot2018;Langlois2022,proxy,NA
+Grouper,Epinephelus areolatus Ð Areolate Grouper,Epinephelus corallicola - Coral Grouper,P,8,1436.010914,1433,1434.505457,Tribot2018;Langlois2022,proxy,NA
+Moray Eel,Gymnothorax favagineus Ð Laced Moray,Gymnothorax thyrsoideus - White-edged Moray,P,1,1532.579181,1401,1466.789591,Tribot2018;Langlois2022,proxy,NA
+Russel Snapper's,Lutjanus fulviflamma Ð Blacktail Snapper,Lutjanus russellii - Russel's Snapper,L,1,1276.15312,1331,1303.57656,Tribot2018;Langlois2022,proxy,NA
+Filefish,Paraluteres prionurus Ð Blacksaddle Filefish,Aluterus scriptus - Scribbled Filefish,L,1,1579.873376,1627,1603.436688,Tribot2018;Langlois2022,proxy,NA
+Scorpionfish,Pterois volitans Ð Red Lionfish,Scorpaenopsis oxycephala - Tasselled Scorpionfish,L,3,1784.87583,1500,1642.437915,Tribot2018;Langlois2022,proxy,NA
+Squirrelfish,Sargocentron praslin Ð Praslin Squirrelfish,Sargocentron rubrum - Redcoat Squirrelfish,P,1,1473.850231,1519,1496.425116,Tribot2018;Langlois2022,proxy,NA
+Bream,Scolopsis ghanam Ð Arabian Monocle Bream,Scolopsis ghanam - Arabian Monocle Bream,B,1,1304.878552,1460,1382.439276,Tribot2018;Langlois2022,proxy,NA
+Batfish,Zanclus cornutus Ð Moorish Idol,Platax teira - Longfin Batfish,L,6,1876.37843,1640,1758.189215,Tribot2018;Langlois2022,proxy,NA
+Unknown Fish,Unknown,Unknown,P,16,1506.198212,1490,1498.099106,Tribot2018;Langlois2022,derived,Used an average of all aesthetic values given as the UNK

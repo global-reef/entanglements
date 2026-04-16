@@ -1,0 +1,613 @@
+survey,date,site,location,province,item,depth_min_(m),depth_max_(m),gear,length_(cm),width_(cm),heigth_(cm),type,category,full_name,living_animals,dead_animals,total_number_of_animals
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,1,7.5,7.5,Line,130,NA,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,2,7.3,7.3,Net,80,43,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,3,6,6,Rope,365,NA,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,4,5.9,5.9,Rope,320,NA,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,5,6.5,6.5,Rope,30,NA,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,6,6,6.5,Net,160,130,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,7,6.8,6.8,Net,130,70,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,8,7,7.2,Rope,280,NA,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,9,6.8,6.8,Net,267,55,NA,NA,NA,NA,0,0,0
+S0001,44511,Chilli Drop,Koh Mun Nai,Rayong,10,7.3,7.3,Net,165,110,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,11,17,18,Net,970,140,NA,Inverts,C,Murex (Unid),3,1,4
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,11,17,18,Net,970,140,NA,Inverts,B,Crabs (Unid),1,0,1
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,11,17,18,Net,970,140,NA,Inverts,A,Bivalves,1,7,8
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,12,18,18,Net,180,100,NA,Inverts,A,Bivalves,1,2,3
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,13,18.100000000000001,18.100000000000001,Net,560,30,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,14,18.5,18.5,Rope,1430,NA,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,15,18,18,Net,150,20,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,16,18,18,Rope,1810,NA,NA,Fish,A,"Russel's snapper
+(Lutjanus rusellii)",1,0,1
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,17,15.5,15.5,Net,500,200,NA,Fish,G,"Moray Eel
+ (Gymnothorax sp.)",1,0,1
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,18,18,18,Net,190,30,NA,Fish,I,Fish (Unid),1,0,1
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,19,18,18,Net,50,20,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,20,17.5,17.5,Rope,700,NA,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,21,16,16,Net,50,50,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,22,16,16,Line,100,40,NA,NA,NA,NA,0,0,0
+S0002,27/11/2021,Petra Wreck,Petra Wreck,Rayong,23,15,15,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,24,6.4,6.4,Line,180,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,25,5.4,5.4,Net,110,75,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,26,4.4000000000000004,4.4000000000000004,Net,150,140,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,27,6,6,Net,460,70,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,28,2.4,2.4,Rope,178,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,29,5.4,5.4,Rope,580,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,30,7.4,7.4,Rope,170,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,31,4.9000000000000004,4.9000000000000004,Rope,NA,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,32,5.0999999999999996,5.0999999999999996,Net,2020,30,NA,Inverts,B,Crabs (Unid),0,1,1
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,33,5,5,Rope,210,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,34,5.7,5.7,Net,100,30,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,35,6,6,Rope,550,NA,NA,NA,NA,NA,0,0,0
+S0003,27/11/2021,Koh Mun Klang,Koh Mun Klang,Rayong,36,5.7,5.7,Rope,410,NA,NA,NA,NA,NA,0,0,0
+S0004,28/11/2021,Hin Dam,Koh Mun Nok,Rayong,37,12.1,12.1,Net,100,50,NA,NA,NA,NA,0,0,0
+S0004,28/11/2021,Hin Dam,Koh Mun Nok,Rayong,38,11.4,11.4,Net,590,170,NA,NA,NA,NA,0,0,0
+S0005,28/11/2021,Chilli Drop,Koh Mun Nai,Rayong,39,6.1,6.1,Line,100,NA,NA,NA,NA,NA,0,0,0
+S0005,28/11/2021,Chilli Drop,Koh Mun Nai,Rayong,40,7,7,Net,100,70,NA,NA,NA,NA,0,0,0
+S0005,28/11/2021,Chilli Drop,Koh Mun Nai,Rayong,41,3.7,3.7,Line,460,NA,NA,NA,NA,NA,0,0,0
+S0006,27/12/2021,Chalok Bay,Koh Tao,Surat Thani,42,7,7,Cage,150,75,75,NA,NA,NA,0,0,0
+S0006,27/12/2021,Chalok Bay,Koh Tao,Surat Thani,43,4.5,4.5,Line,1500,NA,NA,NA,NA,NA,0,0,0
+S0007,44358,Koh Si,Ao Nang,Krabi,44,10.8,10.8,Net,500,NA,NA,NA,NA,NA,0,0,0
+S0007,44358,Koh Si,Ao Nang,Krabi,45,13.7,13.7,Net,150,NA,NA,NA,NA,NA,0,0,0
+S0007,44358,Koh Si,Ao Nang,Krabi,46,17.399999999999999,17.399999999999999,Net,300,NA,NA,NA,NA,NA,0,0,0
+S0007,44358,Koh Si,Ao Nang,Krabi,47,10.199999999999999,10.199999999999999,Rope,100,NA,NA,NA,NA,NA,0,0,0
+S0008,44743,Koh Daeng,Ao Nang,Krabi,48,7.5,7.5,Net,2800,500,NA,Inverts,B,Crabs (Unid),1,0,1
+S0008,44743,Koh Daeng,Ao Nang,Krabi,48,7.5,7.5,Net,2800,500,NA,Inverts,B,Crabs (Unid),1,0,1
+S0009,13/01/2022,Mariott,Phuket,Phuket,49,9.6,9.6,Line,113,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,50,10,10,Net,89,28,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,51,11.4,11.4,Rope,138,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,52,11.6,11.6,Net,92,42,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,53,12,12,Net,120,40,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,54,12.3,12.3,Line,66,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,55,11,11,Rope,200,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,56,12.9,12.9,Line,82,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,57,11.9,11.9,Line,180,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,58,11.9,11.9,Net,65,16,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,59,11.5,11.5,Net,70,35,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,60,10.3,10.3,Net,20,5,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,61,10.9,10.9,Net,27,5,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,62,7.8,7.8,Rope,32,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,63,7.7,7.7,Line,135,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,64,4.5999999999999996,4.5999999999999996,Net,35,5,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,65,3.5,3.5,Line,710,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,66,3.7,3.7,Rope,103,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,67,2,2,Line,670,NA,NA,NA,NA,NA,0,0,0
+S0009,13/01/2022,Mariott,Phuket,Phuket,68,2,2,Rope,130,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,69,6.2,6.2,Rope,560,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,70,11.9,11.9,Rope,120,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,71,12.9,12.9,Line,160,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,72,12.5,12.5,Net,50,30,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,73,10.1,10.1,Net,100,32,NA,Inverts,G,Lambis sp,0,1,1
+S0010,13/01/2022,Mariott,Phuket,Phuket,74,5.5,5.5,Line,250,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,75,4.7,4.7,Line,NA,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,76,5.4,5.4,Line,60,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,77,6,6,Line,6,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,78,6.1,6.1,Line,NA,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,79,5.2,5.2,Line,80,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,80,5.2,5.2,Line,120,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,81,4.5999999999999996,4.5999999999999996,Line,90,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,82,4.5999999999999996,4.5999999999999996,Rope,140,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,83,5.3,5.3,Line,180,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,84,6.4,6.4,Rope,210,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,85,6.1,6.1,Rope,NA,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,86,6.7,6.7,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,87,3.5,3.5,Line,2337,NA,NA,NA,NA,NA,0,0,0
+S0010,13/01/2022,Mariott,Phuket,Phuket,88,0.5,0.5,Net,310,10,NA,NA,NA,NA,0,0,0
+S0011,13/01/2022,Mariott,Phuket,Phuket,89,13.9,13.9,Net,120,30,NA,Fish,B,Baby Grouper,1,0,1
+S0011,13/01/2022,Mariott,Phuket,Phuket,90,9.8000000000000007,9.8000000000000007,Line,1100,NA,NA,NA,NA,NA,0,0,0
+S0011,13/01/2022,Mariott,Phuket,Phuket,91,11.1,11.1,Rope,164,NA,NA,NA,NA,NA,0,0,0
+S0011,13/01/2022,Mariott,Phuket,Phuket,92,8.1,8.1,Line,140,NA,NA,NA,NA,NA,0,0,0
+S0011,13/01/2022,Mariott,Phuket,Phuket,93,6,6,Line,120,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,94,11,11,Line,295,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,95,11,11,Line,150,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,96,8,8,Line,120,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,97,8,8,Line,290,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,98,7,7,Line,620,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,99,6,6,Line,800,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,100,4,4,Line,1580,NA,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,101,4,4,Net,450,100,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,102,2,2,Net,400,120,NA,NA,NA,NA,0,0,0
+S0012,13/01/2022,Mariott,Phuket,Phuket,103,2,2,Net,100,30,NA,NA,NA,NA,0,0,0
+S0013,13/01/2022,Mariott,Phuket,Phuket,104,8.5,8.5,Rope,39,NA,NA,NA,NA,NA,0,0,0
+S0013,13/01/2022,Mariott,Phuket,Phuket,105,2.9,2.9,Rope,27,NA,NA,NA,NA,NA,0,0,0
+S0013,13/01/2022,Mariott,Phuket,Phuket,106,12.5,12.5,Rope,60.1,NA,NA,NA,NA,NA,0,0,0
+S0013,13/01/2022,Mariott,Phuket,Phuket,107,8.8000000000000007,8.8000000000000007,Rope,132,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,108,1,1,Net,173,95,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,109,6.1,6.1,Rope,103,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,110,3.2,3.2,Line,90,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,111,4.2,4.2,Line,385,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,112,4.2,4.2,Line,50,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,113,5,5,Line,15,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,114,4.3,4.3,Line,110,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,115,4.4000000000000004,4.4000000000000004,Net,352,105,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,116,4.3,4.3,Rope,89,NA,NA,NA,NA,NA,0,0,0
+S0014,13/01/2022,Mariott,Phuket,Phuket,117,1.9,1.9,Line,989,NA,NA,NA,NA,NA,0,0,0
+S0015,28/02/2021,Koh Mun Klang (North),Koh Mun Klang,Rayong,118,NA,NA,Rope,15,NA,NA,NA,NA,NA,0,0,0
+S0015,28/02/2021,Koh Mun Klang (North),Koh Mun Klang,Rayong,119,NA,NA,Cage,area = 3.5 m2,NA,NA,NA,NA,NA,0,0,0
+S0015,28/02/2021,Koh Mun Klang (North),Koh Mun Klang,Rayong,119,NA,NA,Line,600,NA,NA,NA,NA,NA,0,0,0
+S0015,28/02/2021,Koh Mun Klang (North),Koh Mun Klang,Rayong,120,2.7,2.7,Rope,40,NA,NA,NA,NA,NA,0,0,0
+S0015,28/02/2021,Koh Mun Klang (North),Koh Mun Klang,Rayong,121,4,4,Net,200,NA,NA,Inverts,B,Crabs (Unid),1,0,1
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,122,4.5999999999999996,4.5999999999999996,Rope,510,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,123,5.2,5.2,Rope,90,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,124,4.5999999999999996,4.5999999999999996,Net,55,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,125,6.5,6.5,Net,40,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,126,6.1,6.1,Net,30,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,127,6.2,6.2,Net,40,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,128,6.3,6.3,Net,80,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,129,7.2,7.2,Net,360,NA,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,130,7.4,7.4,Net,360,50,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,131,7.5,7.5,Net,41,20,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,132,7.2,7.2,Net,140,30,NA,NA,NA,NA,0,0,0
+S0016,44533,Chilli Drop,Koh Mun Nai,Rayong,133,7.3,7.3,Net,60,30,NA,NA,NA,NA,0,0,0
+S0017,15/03/2021,Petra Wreck,Koh Mun Nok,Rayong,134,NA,NA,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,135,6.5,6.5,Net,110,40,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,136,6.5,6.5,Net,40,20,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,137,6.2,6.2,Cage,120,60,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,138,7.4,7.4,Net,120,30,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,139,5.6,5.6,Net,90,80,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,140,7.2,7.2,Net,60,30,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,141,7.7,7.7,Net,40,20,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,142,6.5,6.5,Rope,140,NA,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,143,6,6,Net,125,50,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,144,8,8,Line,1000,NA,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,145,8,8,Net,85,50,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,146,7.5,7.5,Net,80,19,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,147,7.7,7.7,Line,40,NA,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,148,7.8,7.8,Line,70,45,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,149,7,7,Rope,120,NA,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,150,7,7,Rope,300,NA,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,151,7.4,7.4,Rope,40,NA,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,152,7.6,7.6,Net,35,30,NA,NA,NA,NA,0,0,0
+S0018,18/03/2021,Hin Yuan South,Koh Mun Nok,Rayong,153,7.4,7.4,Cage,150,90,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,154,6,6,Rope,200,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,155,6,6,Rope,250,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,156,6,6,Rope,150,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,157,6,6,Net,120,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,158,6,6,Net,100,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,159,6,6,Net,70,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,160,6,6,Net,140,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,161,5.5,5.5,Net,35,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,162,5,5,Rope,50,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,163,5.5,5.5,Rope,120,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,164,5,5,Net,440,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,165,3,3,Net,50,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,166,7.8,7.8,Rope,20,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,167,7.7,7.7,Rope,100,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,168,8,8,Rope,80,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,169,7.5,7.5,Rope,100,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,170,8,8,Rope,80,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,171,8.3000000000000007,8.3000000000000007,Rope,80,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,172,8,8,Rope,95,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,173,7.7,7.7,Rope,160,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,174,7.1,7.1,Rope,90,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,175,7.1,7.1,Rope,100,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,176,7.4,7.4,Rope,140,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,177,7.6,7.6,Rope,70,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,178,7.8,7.8,Rope,60,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,179,7.8,7.8,Rope,120,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,180,7,7,Rope,110,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,181,7.6,7.6,Rope,55,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,182,7.7,7.7,Rope,30,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,183,8,8,Net,70,60,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,184,7.8,7.8,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,185,7.8,7.8,Line,240,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,186,7.8,7.8,Net,47,45,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,187,6.3,6.3,Rope,20,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,188,6.7,6.7,Line,109,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,189,6.5,6.5,Rope,90,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,190,5.0999999999999996,5.0999999999999996,Net,90,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,191,7.5,7.5,Net,100,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,192,7.8,7.8,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,193,8.3000000000000007,8.3000000000000007,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,194,7.5,7.5,Net,100,50,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,195,7.5,7.5,Net,150,50,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,196,7.2,7.2,Net,400,30,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,197,6.2,6.2,Net,140,NA,NA,NA,NA,NA,0,0,0
+S0019,19/03/2021,Chilli Drop,Koh Mun Nai,Rayong,198,5.8,5.8,Net,150,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,199,8.5,8.5,Net,170,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,200,5,5,Net,45,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,201,5.5,5.5,Net,120,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,202,4,4,Rope,380,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,203,5,5,Rope,40,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,204,6,6,Rope,310,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,205,8,8,Rope,75,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,206,7.6,7.6,Rope,22,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,207,7,7,Rope,NA,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,208,8,8,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,209,8,8,Net,50,30,NA,Fish,F,Pufferfish,0,1,1
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,210,8,8,Net,110,30,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,211,7.1,7.1,NA,110,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,212,7.1,7.1,Rope,50,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,213,7.6,7.6,Rope,80,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,214,6,6,Rope,37,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,215,5.0999999999999996,5.0999999999999996,Net,90,30,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,216,7.2,7.2,Net,150,40,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,217,8,8,Net,75,45,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,218,8,8,Rope,60,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,219,7.5,7.5,Rope,70,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,220,7.5,7.5,Line,80,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,221,6.6,6.6,Line,140,NA,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,222,5,5,Net,70,40,NA,NA,NA,NA,0,0,0
+S0020,19/03/2021,Hin Yuan North,Koh Mun Nok,Rayong,223,9,9,Net,50,15,NA,NA,NA,NA,0,0,0
+S0021,27/04/2021,Haad Na Baan,Koh Mun Nai,Rayong,224,20,20,Net,300,200,NA,Inverts,B,Crabs (Unid),3,2,5
+S0021,27/04/2021,Haad Na Baan,Koh Mun Nai,Rayong,224,20,20,Net,300,200,NA,Fish,I,Fish (Unid),0,3,3
+S0022,24/04/2021,D-Blocks 3B / 5B,D-Blocks 3B / 5B,Rayong,225,17.2,17.2,Net,600,200,NA,Fish,E,Bream Fish,1,0,1
+S0022,24/04/2021,D-Blocks 3B / 5B,D-Blocks 3B / 5B,Rayong,225,17.2,17.2,Net,600,200,NA,Inverts,B,Crabs (Unid),0,2,2
+S0022,24/04/2021,D-Blocks 3B / 5B,D-Blocks 3B / 5B,Rayong,225,17.2,17.2,Net,600,200,NA,Inverts,C,Murex (Unid),0,1,1
+S0022,24/04/2021,D-Blocks 3B / 5B,D-Blocks 3B / 5B,Rayong,225,17.2,17.2,Net,600,200,NA,Fish,I,Fish (Unid),0,1,1
+S0022,24/04/2021,D-Blocks 3B / 5B,D-Blocks 3B / 5B,Rayong,226,16.5,16.5,Net,250,150,NA,Fish,H,Apogonidae.sp,1,0,1
+S0022,24/04/2021,D-Blocks 3B / 5B,D-Blocks 3B / 5B,Rayong,226,16.5,16.5,Net,250,150,NA,Fish,H,Filefish,0,1,1
+S0023,13/09/2021,North Reef,Koh Mun Nai,Rayong,227,2,2,Net,97,85,NA,NA,NA,NA,0,0,0
+S0023,13/09/2021,North Reef,Koh Mun Nai,Rayong,228,2,2,Net,72,27,NA,NA,NA,NA,0,0,0
+S0023,13/09/2021,North Reef,Koh Mun Nai,Rayong,229,2,2,Rope,250,NA,NA,NA,NA,NA,0,0,0
+S0023,13/09/2021,North Reef,Koh Mun Nai,Rayong,230,1.6,1.6,Rope,160,NA,NA,NA,NA,NA,0,0,0
+S0024,44594,Pavillion,Koh Mun Nai,Rayong,231,6.7,6.7,Line,2371,NA,NA,NA,NA,NA,0,0,0
+S0024,44594,Pavillion,Koh Mun Nai,Rayong,232,7,7,Net,69,60,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,233,2.5,2.5,Net,200,30,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,234,2,2,Rope,100,NA,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,235,2,2,Net,30,30,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,236,3,3,Net,50,20,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,237,2.5,2.5,Net,100,10,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,238,2,2,Net,20,20,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,239,3.5,3.5,Net,40,40,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,240,2.5,2.5,Net,90,20,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,241,3,3,Net,30,30,NA,NA,NA,NA,0,0,0
+S0025,44683,Kata Beach,Phuket,Phuket,242,2,2,Net,30,250,NA,NA,NA,NA,0,0,0
+S0026,44683,Kata Noi,Phuket,Phuket,243,7,7,Net,3,2,NA,NA,NA,NA,0,0,0
+S0026,44683,Kata Noi,Phuket,Phuket,244,5,5,Net,2,2,NA,NA,NA,NA,0,0,0
+S0026,44683,Kata Noi,Phuket,Phuket,245,6,6,Line,10,NA,NA,NA,NA,NA,0,0,0
+S0026,44683,Kata Noi,Phuket,Phuket,246,5,5,Net,3,2,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,247,3,3,Hook/Lure,NA,NA,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,248,3,3,Hook/Lure,NA,NA,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,249,5,5,Net,350,200,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,250,3,3,Net,30,20,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,251,3,3,Net,300,200,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,252,3,3,Rope,100,NA,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,253,2,2,Hook/Lure,NA,NA,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,254,3,3,Net,90,20,NA,NA,NA,NA,0,0,0
+S0027,44714,Kata Noi,Phuket,Phuket,255,4,4,Net,150,150,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,256,2.5,2.5,Net,100,30,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,256,2.5,2.5,Net,100,30,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,257,1,1,Net,30,30,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,258,1,1,Net,200,50,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,258,1,1,Net,200,50,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,259,1.5,1.5,Net,50,30,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,260,2.5,2.5,Net,200,70,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,261,3,3,Net,150,50,NA,NA,NA,NA,0,0,0
+S0028,44691,Kata Beach,Phuket,Phuket,262,2.5,2.5,Net,220,100,NA,NA,NA,NA,0,0,0
+S0029,16/02/2022,Pier North,Koh Mun Nai,Rayong,263,3.4,3.4,Net,260,120,NA,Inverts,B,Crabs (Unid),4,0,4
+S0030,44607,Karon Beach,Phuket,Phuket,264,2.5,2.5,Net,30,20,NA,NA,NA,NA,0,0,0
+S0030,44607,Karon Beach,Phuket,Phuket,265,2.5,2.5,Net,30,20,NA,NA,NA,NA,0,0,0
+S0030,44607,Karon Beach,Phuket,Phuket,266,4,4,Net,100,20,NA,NA,NA,NA,0,0,0
+S0030,44607,Karon Beach,Phuket,Phuket,267,2,2,Net,180,100,NA,NA,NA,NA,0,0,0
+S0031,44604,Karon Beach,Phuket,Phuket,268,3.5,3.5,Net,200,100,NA,NA,NA,NA,0,0,0
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Inverts,F,Hermit Crabs (Unid),2,0,2
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Inverts,C,Murex (Unid),2,0,2
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Inverts,B,Decorator crab,1,0,1
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Fish,D,Wrasse,1,0,1
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Fish,C,Rabbitfish,1,0,1
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Fish,D,Blacktail angelfish,1,0,1
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Fish,B,Scorpionfish,1,0,1
+S0031,44604,Karon Beach,Phuket,Phuket,269,4,4,Net,1200,200,NA,Fish,I,Fish (Unid),0,1,1
+S0032,44605,Karon Beach,Phuket,Phuket,270,5,5,Net,1200,200,NA,Fish,B,Scorpionfish,1,0,1
+S0032,44605,Karon Beach,Phuket,Phuket,270,5,5,Net,1200,200,NA,Inverts,C,Murex (Unid),2,0,2
+S0032,44605,Karon Beach,Phuket,Phuket,270,5,5,Net,1200,200,NA,Fish,C,Dusky Rabbitfish,1,0,1
+S0032,44605,Karon Beach,Phuket,Phuket,270,5,5,Net,1200,200,NA,Inverts,B,Crabs (Unid),1,0,1
+S0032,44605,Karon Beach,Phuket,Phuket,271,5.5,5.5,Net,600,200,NA,Inverts,B,Seven Spot Crab,1,0,1
+S0033,44609,Karon Beach,Phuket,Phuket,272,3,3,Net,500,300,NA,NA,NA,NA,0,0,0
+S0034,44610,Kata Beach,Phuket,Phuket,273,2,2,Hook/Lure,NA,NA,NA,NA,NA,NA,0,0,0
+S0034,44610,Kata Beach,Phuket,Phuket,274,3,3,Hook/Lure,NA,NA,NA,NA,NA,NA,0,0,0
+S0034,44610,Kata Beach,Phuket,Phuket,275,2.5,2.5,Line,100,NA,NA,NA,NA,NA,0,0,0
+S0034,44610,Kata Beach,Phuket,Phuket,276,2.5,2.5,Net,30,30,NA,NA,NA,NA,0,0,0
+S0034,44610,Kata Beach,Phuket,Phuket,277,2,2,Net,100,30,NA,NA,NA,NA,0,0,0
+S0035,29/01/2022,Hin Ploeng South,Hin Ploeng,Rayong,278,9,9,Net,2500,200,NA,Fish,B,Grouper,1,1,2
+S0035,29/01/2022,Hin Ploeng South,Hin Ploeng,Rayong,278,9,9,Net,2500,200,NA,Inverts,B,Crabs (Unid),5,1,6
+S0035,29/01/2022,Hin Ploeng South,Hin Ploeng,Rayong,278,9,9,Net,2500,200,NA,Fish,C,Rabbitfish,1,0,1
+S0035,29/01/2022,Hin Ploeng South,Hin Ploeng,Rayong,278,9,9,Net,2500,200,NA,Fish,H,Damselfish,1,0,1
+S0036,44609,Karon South Rocks,Phuket,Phuket,279,2,2,Net,40,20,NA,NA,NA,NA,0,0,0
+S0036,44609,Karon South Rocks,Phuket,Phuket,280,3,3,Rope,60,NA,NA,NA,NA,NA,0,0,0
+S0037,44616,Kata Beach,Phuket,Phuket,281,2,2,Rope,200,NA,NA,NA,NA,NA,0,0,0
+S0037,44616,Kata Beach,Phuket,Phuket,282,3,3,Net,100,30,NA,NA,NA,NA,0,0,0
+S0037,44616,Kata Beach,Phuket,Phuket,283,3.5,3.5,Net,150,100,NA,NA,NA,NA,0,0,0
+S0038,44617,Kata Noi,Phuket,Phuket,284,3.5,3.5,Net,400,100,NA,NA,NA,NA,0,0,0
+S0038,44617,Kata Noi,Phuket,Phuket,285,4.5,4.5,Net,100,50,NA,Inverts,C,Murex (Unid),1,0,1
+S0038,44617,Kata Noi,Phuket,Phuket,286,6,6,Net,150,100,NA,NA,NA,NA,0,0,0
+S0039,28/02/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,287,3.8,3.8,Net,115,75,NA,NA,NA,NA,NA,NA,0
+S0039,28/02/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,288,6.1,6.1,Net,160,120,NA,NA,NA,NA,NA,NA,0
+S0039,28/02/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,288,6.1,6.1,Net,160,120,NA,Inverts,B,Crabs (Unid),9,0,9
+S0039,28/02/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,288,6.1,6.1,Net,160,120,NA,NA,NA,NA,NA,NA,0
+S0039,28/02/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,289,3.3,3.3,Net,150,50,NA,NA,NA,NA,0,0,0
+S0039,28/02/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,290,5.9,5.9,Net,40,30,NA,NA,NA,NA,0,0,0
+S0040,44618,Kata Noi,Phuket,Phuket,291,3.5,3.5,Net,200,100,NA,NA,NA,NA,NA,0,0
+S0040,44618,Kata Noi,Phuket,Phuket,292,4,4,Net,200,100,NA,NA,NA,NA,NA,0,0
+S0041,44619,Karon,Phuket,Phuket,293,3,3,Net,300,200,NA,NA,NA,NA,0,0,0
+S0041,44619,Karon,Phuket,Phuket,294,2,2,Net,400,100,NA,NA,NA,NA,0,0,0
+S0042,44621,"Koh Phu, North",Kata,Phuket,295,4,4,Net,200,100,NA,NA,NA,NA,0,0,0
+S0043,44623,Karon South,Phuket,Phuket,296,3,3,Net,300,100,NA,NA,NA,NA,0,0,0
+S0043,44623,Karon South,Phuket,Phuket,297,4,4,Net,200,100,NA,NA,NA,NA,0,0,0
+S0043,44623,Karon South,Phuket,Phuket,298,3,3,Net,300,150,NA,NA,NA,NA,0,0,0
+S0043,44623,Karon South,Phuket,Phuket,299,1.5,1.5,Line,50,NA,NA,NA,NA,NA,0,0,0
+S0044,44632,Hin Krachab,Koh Mun Klang,Rayong,300,7.9,7.9,Rope,530,NA,NA,Inverts,A,Bivalves,2,0,2
+S0044,44632,Hin Krachab,Koh Mun Klang,Rayong,301,6.9,6.9,Net,46,NA,NA,NA,NA,NA,NA,NA,0
+S0044,44632,Hin Krachab,Koh Mun Klang,Rayong,301,6.9,6.9,Net,46,NA,NA,Inverts,B,Crabs (Unid),1,0,1
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,302,6.8,6.8,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,303,5.3,5.3,Net,130,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,304,4.5,4.5,Line,390,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,305,5.2,5.2,Net,250,77,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,306,NA,NA,Line,NA,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,307,3,3,Rope,170,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,308,2.2000000000000002,2.2000000000000002,Rope,75,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,309,4,4,Rope,50,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,310,4,4,Net,52,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,311,4.7,4.7,Net,181,NA,NA,NA,NA,NA,0,0,0
+S0045,44632,Chilli Drop,Koh Mun Nai,Rayong,312,5.3,5.3,Net,88,55,NA,NA,NA,NA,0,0,0
+S0046,44632,Hin Krachab,Koh Mun Klang,Rayong,313,7.1,7.1,Net,275,90,NA,NA,NA,NA,0,0,0
+S0046,44632,Hin Krachab,Koh Mun Klang,Rayong,314,7.3,7.3,Net,180,120,NA,NA,NA,NA,0,0,0
+S0046,44632,Hin Krachab,Koh Mun Klang,Rayong,315,7.3,7.3,Net,120,70,NA,NA,NA,NA,0,0,0
+S0046,44632,Hin Krachab,Koh Mun Klang,Rayong,316,8,8,Net,100,80,NA,Inverts,B,Crabs (Unid),1,0,1
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,317,4.3,4.3,Net,140,60,NA,NA,NA,NA,0,0,0
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,318,5.0999999999999996,5.0999999999999996,Net,10,5,NA,NA,NA,NA,0,0,0
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,319,5.0999999999999996,5.0999999999999996,Net,60,40,NA,NA,NA,NA,0,0,0
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,320,5.5,5.5,Net,120,30,NA,NA,NA,NA,0,0,0
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,321,5.5,5.5,Net,110,60,NA,NA,NA,NA,0,0,0
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,322,3.5,3.5,Rope,250,NA,NA,NA,NA,NA,0,0,0
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,323,3.4,3.4,Net,120,80,NA,NA,NA,NA,0,0,0
+S0047,44632,Chilli Drop,Koh Mun Nai,Rayong,324,3.2,3.2,Net,100,40,NA,NA,NA,NA,0,0,0
+S0048,44633,Petra Wrek,Koh Mun Nok,Rayong,325,16,16,Line,300,NA,NA,NA,NA,NA,0,0,0
+S0048,44633,Petra Wrek,Koh Mun Nok,Rayong,326,16,16,Line,380,NA,NA,NA,NA,NA,0,0,0
+S0048,44633,Petra Wrek,Koh Mun Nok,Rayong,327,15.5,15.5,Net,85,75,NA,NA,NA,NA,0,0,0
+S0048,44633,Petra Wrek,Koh Mun Nok,Rayong,328,17,17,Net,180,115,NA,NA,NA,NA,0,0,0
+S0048,44633,Petra Wrek,Koh Mun Nok,Rayong,329,18.5,18.5,Hook/Lure,NA,NA,NA,NA,NA,NA,0,0,0
+S0048,44633,Petra Wrek,Koh Mun Nok,Rayong,330,19,19,Line,360,NA,NA,NA,NA,NA,0,0,0
+S0049,44633,Deep Block,-,Rayong,331,16,16,Net,110,30,NA,NA,NA,NA,0,0,0
+S0049,44633,Deep Block,-,Rayong,332,16,16,Net,245,115,NA,Inverts,B,Crabs (Unid),1,0,1
+S0049,44633,Deep Block,-,Rayong,332,16,16,Net,245,115,NA,Inverts,D,Snails,1,0,1
+S0049,44633,Deep Block,-,Rayong,332,16,16,Net,245,115,NA,Inverts,A,Clams,3,0,3
+S0049,44633,Deep Block,-,Rayong,333,16.5,16.5,Net,265,65,NA,NA,NA,NA,0,0,0
+S0049,44633,Deep Block,-,Rayong,334,16,16,Net,245,30,NA,NA,NA,NA,0,0,0
+S0049,44633,Deep Block,-,Rayong,335,16.5,16.5,Net,55,30,NA,NA,NA,NA,0,0,0
+S0049,44633,Deep Block,-,Rayong,336,15.9,15.9,Line,70,NA,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,337,15,15,Line,950,NA,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,338,15,15,Line,20,NA,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,339,16,16,Net,40,30,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,340,17,17,Line,60,NA,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,341,19,19,Line,500,NA,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,342,15.3,15.3,Net,175,35,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,343,15.9,15.9,Line,70,NA,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,344,15.6,15.6,Line,600,NA,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,345,17,17,Net,30,30,NA,NA,NA,NA,0,0,0
+S0050,44633,Petra Wrek,Koh Mun Nok,Rayong,346,15,15,Line,300,NA,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,347,16.5,16.5,Net,75,5,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,348,17,17,Net,124,25,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,349,17,17,Net,100,90,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,350,17,17,Net,50,20,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,351,17,17,Net,40,20,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,352,16,16,Net,120,40,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,353,16,16,Net,70,15,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,354,16,16,Net,120,160,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,355,17,17,Net,110,120,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,356,17,17,Net,70,30,NA,NA,NA,NA,0,0,0
+S0051,44633,Deep Block,-,Rayong,357,17,17,Line,230,NA,NA,NA,NA,NA,0,0,0
+S0052,44632,Chilli Drop,Koh Mun Nai,Rayong,358,6,6,Net,100,NA,NA,NA,NA,NA,0,0,0
+S0052,44632,Chilli Drop,Koh Mun Nai,Rayong,359,5,5,Rope,300,NA,NA,NA,NA,NA,0,0,0
+S0052,44632,Chilli Drop,Koh Mun Nai,Rayong,360,5,5,Rope,900,NA,NA,NA,NA,NA,0,0,0
+S0052,44632,Chilli Drop,Koh Mun Nai,Rayong,361,5,5,Net,70,50,NA,NA,NA,NA,0,0,0
+S0052,44632,Chilli Drop,Koh Mun Nai,Rayong,362,5,5,Rope,110,NA,NA,NA,NA,NA,0,0,0
+S0052,44632,Chilli Drop,Koh Mun Nai,Rayong,363,6,6,Net,90,50,NA,NA,NA,NA,0,0,0
+S0053,44633,Petra Wrek,Koh Mun Nok,Rayong,364,16.399999999999999,16.399999999999999,Rope,900,NA,NA,NA,NA,NA,0,0,0
+S0053,44633,Petra Wrek,Koh Mun Nok,Rayong,365,16.399999999999999,16.399999999999999,Cage,160,100,40,Fish,F,Porqupinefish,2,0,2
+S0054,44633,Deep Block 5A,-,Rayong,366,16.899999999999999,16.899999999999999,Net,60,15,NA,NA,NA,NA,0,0,0
+S0055,44644,Hin Yuan South,Koh Mun Nok,Rayong,377,6,6,Net,57,10,NA,NA,NA,NA,0,0,0
+S0056,44647,Hin Yuan North,Koh Mun Nok,Rayong,388,5.0999999999999996,5.0999999999999996,Net,140,40,NA,NA,NA,NA,0,0,0
+S0057,44646,Karon South,Phuket,Phuket,389,6,6,Net,200,20,NA,Inverts,C,Murex (Unid),2,0,2
+S0057,44646,Karon South,Phuket,Phuket,390,4,4,Net,200,100,NA,NA,NA,NA,0,0,0
+S0057,44646,Karon South,Phuket,Phuket,391,5,5,Net,300,150,NA,NA,NA,NA,0,0,0
+S0057,44646,Karon South,Phuket,Phuket,392,4,4,Net,200,100,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,393,5.7,5.7,Net,90,26,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,394,5.8,5.8,Net,60,15,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,395,5.9,5.9,Net,195,70,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,396,6.6,6.6,Net,80,50,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,397,6.1,6.1,Net,155,80,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,398,4.3,4.3,Line,880,NA,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,399,5.7,5.7,Net,190,40,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,400,6.8,6.8,Net,310,50,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,401,6.8,6.8,Net,90,50,NA,NA,NA,NA,0,0,0
+S0058,44667,Chilli Drop,Koh Mun Nai,Rayong,402,6.8,6.8,Net,139,34,NA,NA,NA,NA,0,0,0
+S0059,22/04/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,403,1.9,1.9,Net,215,95,NA,NA,NA,NA,0,0,0
+S0059,22/04/2022,Koh Mun Klang East,Koh Mun Klang,Rayong,403,1.9,1.9,Net,215,95,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,404,8.3000000000000007,8.3000000000000007,Rope,900,NA,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,405,8.3000000000000007,8.3000000000000007,Net,50,30,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,406,8.4,8.4,Rope,190,NA,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,407,8.4,8.4,Net,20,10,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,408,8.6,8.6,Net,90,30,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,409,8.1999999999999993,8.1999999999999993,Cage,130,90,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,410,8.1999999999999993,8.1999999999999993,Net,50,20,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,411,7.4,7.4,Rope,90,NA,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,412,7.4,7.4,Rope,380,NA,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,413,6.7,6.7,Rope,200,NA,NA,NA,NA,NA,0,0,0
+S0060,44684,Koh Wai,Koh Chang,Trat,414,7.8,7.8,Cage,60,35,NA,NA,NA,NA,0,0,0
+S0061,44684,Koh Wai,Koh Chang,Trat,415,6.2,6.2,Net,50,125,NA,NA,NA,NA,0,0,0
+S0061,44684,Koh Wai,Koh Chang,Trat,416,3.1,3.1,Rope,600,NA,NA,NA,NA,NA,0,0,0
+S0061,44684,Koh Wai,Koh Chang,Trat,417,2.5,2.5,Rope,172,NA,NA,NA,NA,NA,0,0,0
+S0061,44684,Koh Wai,Koh Chang,Trat,418,5.0999999999999996,5.0999999999999996,Rope,2430,NA,NA,NA,NA,NA,0,0,0
+S0061,44684,Koh Wai,Koh Chang,Trat,419,5.0999999999999996,5.0999999999999996,Line,141,NA,NA,NA,NA,NA,0,0,0
+S0062,44684,Koh Wai,Koh Chang,Trat,420,7.7,7.7,Rope,NA,NA,NA,NA,NA,NA,0,0,0
+S0062,44684,Koh Wai,Koh Chang,Trat,421,6.5,6.5,Cage,180,100,60,NA,NA,NA,0,0,0
+S0062,44684,Koh Wai,Koh Chang,Trat,422,5,5,Line,830,NA,NA,NA,NA,NA,0,0,0
+S0062,44684,Koh Wai,Koh Chang,Trat,423,3.5,3.5,Rope,515,NA,NA,Fish,C,Rabbitfish,0,1,1
+S0062,44684,Koh Wai,Koh Chang,Trat,424,3.5,3.5,Rope,330,NA,NA,NA,NA,NA,0,0,0
+S0062,44684,Koh Wai,Koh Chang,Trat,425,4.9000000000000004,4.9000000000000004,Net,30,50,NA,NA,NA,NA,0,0,0
+S0062,44684,Koh Wai,Koh Chang,Trat,426,5.0999999999999996,5.0999999999999996,Rope,630,NA,NA,NA,NA,NA,0,0,0
+S0062,44684,Koh Wai,Koh Chang,Trat,427,3,3,Rope,510,NA,NA,NA,NA,NA,0,0,0
+S0063,44792,Japanese Garden,Koh Tao,Surat Thani,428,13.2,13.2,Net,34,22,NA,NA,NA,NA,0,0,0
+S0063,44792,Japanese Garden,Koh Tao,Surat Thani,429,12.7,12.7,Rope,800,NA,NA,NA,NA,NA,0,0,0
+S0063,44792,Japanese Garden,Koh Tao,Surat Thani,430,12.2,12.2,Line,930,NA,NA,NA,NA,NA,0,0,0
+S0064,44795,Chang Wreck,Koh Chang,Trat,431,5,31,Net,12600,350,NA,Fish,C,Fusilier fish,1,0,1
+S0064,44795,Chang Wreck,Koh Chang,Trat,431,5,31,Net,12600,350,NA,Inverts,C,Chicoreus ramosus,1,0,1
+S0064,44795,Chang Wreck,Koh Chang,Trat,431,5,31,Net,12600,350,NA,Fish,C,Batfish,0,6,6
+S0064,44795,Chang Wreck,Koh Chang,Trat,431,5,31,Net,12600,350,NA,Fish,C,Rabbitfish,0,3,3
+S0064,44795,Chang Wreck,Koh Chang,Trat,431,5,31,Net,12600,350,NA,Fish,H,Squirrelfish,0,1,1
+S0064,44795,Chang Wreck,Koh Chang,Trat,431,5,31,Net,12600,350,NA,Fish,A,Trevally,0,2,2
+S0064,44795,Chang Wreck,Koh Chang,Trat,431,5,31,Net,12600,350,NA,Fish,B,Grouper,0,1,1
+S0065,44799,Chumphon Pinnacle,Koh Tao,Surat Thani,432,29.3,29.3,Net,80,40,NA,NA,NA,NA,0,0,0
+S0066,44852,Petra Wrek,Koh Mun Nok,Rayong,433,14.8,14.8,Net,130,100,NA,Fish,B,Grouper,1,0,1
+S0066,44852,Petra Wrek,Koh Mun Nok,Rayong,433,14.8,14.8,Net,130,100,NA,Inverts,C,Murex (Unid),3,0,3
+S0066,44852,Petra Wrek,Koh Mun Nok,Rayong,433,14.8,14.8,Net,130,100,NA,Inverts,B,Crabs (Unid),0,1,1
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,434,5.0999999999999996,5.0999999999999996,Line,180,NA,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,435,5,5,Line,760,NA,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,436,3.5,3.5,Net,150,80,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,437,2.9,2.9,Net,120,70,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,438,3,3,Net,272,83,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,439,2.7,2.7,Net,85,55,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,440,2.6,2.6,Net,76,36,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,441,2.8,2.8,Line,180,NA,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,442,2.6,2.6,Rope,70,NA,NA,NA,NA,NA,0,0,0
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,443,4.0999999999999996,4.0999999999999996,Net,290,75,NA,Inverts,E,Giant Clam,1,0,1
+S0067,44855,Chilli Drop,Koh Mun Nai,Rayong,444,6.9,6.9,Rope,70,60,NA,NA,NA,NA,0,0,0
+S0059,22/10/2022,Koh Mun Klang South West,Koh Mun Klang,Rayong,445,7.5,7.5,Net,17,10,NA,NA,NA,NA,0,0,0
+S0069,15/11/2022,Pier South,Koh Mun Nai,Rayong,446,1.6,1.6,Net,170,60,NA,NA,NA,NA,0,0,0
+S0069,15/11/2022,Pier South,Koh Mun Nai,Rayong,447,4.7,4.7,Line,63,NA,NA,NA,NA,NA,0,0,0
+S0069,15/11/2022,Pier South,Koh Mun Nai,Rayong,448,2.9,2.9,Line,280,NA,NA,NA,NA,NA,0,0,0
+S0070,29/01/2022,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,489,8.5,8.5,Net,220,75,NA,Inverts,B,Crabs (Unid),2,0,2
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,490,5.9,5.9,Line,200,NA,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,491,5,5,Net,75,55,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,492,3.8,3.8,Net,12,6,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,493,3.8,3.8,Net,120,50,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,494,3,3,Net,170,75,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,495,2.8,2.8,Net,65,30,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,496,2.4,2.4,Net,20,10,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,497,2.4,2.4,Rope,47,NA,NA,NA,NA,NA,0,0,0
+S0071,17/11/2022,Pavillion,Koh Mun Nai,Rayong,498,4.0999999999999996,4.0999999999999996,Net,22,15,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,499,7.2,7.2,Rope,93,NA,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,500,6.6,6.6,Rope,270,NA,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,501,6,6,Rope,130,NA,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,502,7.2,7.2,Rope,460,NA,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,503,4.9000000000000004,4.9000000000000004,Rope,160,NA,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,504,5.3,5.3,Net,190,NA,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,505,5.7,5.7,Rope,110,35,NA,NA,NA,NA,0,0,0
+S0072,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,506,7.4,7.4,Rope,200,NA,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,507,8,8,Net,200,85,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,508,8.6,8.6,Net,55,25,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,509,6.9,6.9,Line,75,NA,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,510,7.1,7.1,Line,225,NA,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,511,7.1,7.1,Line,225,NA,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,512,9.5,9.5,Net,70,25,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,513,9.5,9.5,Net,70,25,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,514,7.1,7.1,Net,10,10,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,515,7.1,7.1,Net,10,5,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,516,6.1,6.1,Rope,310,NA,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,517,6.2,6.2,Net,80,55,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,518,6.2,6.2,Net,140,65,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,519,7.3,7.3,Net,50,20,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,520,7.8,7.8,Net,210,65,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,521,7.8,7.8,Rope,1130,NA,NA,NA,NA,NA,0,0,0
+S0073,27/11/2022,Koh Mun Nok West,Koh Mun Nok,Rayong,522,7.9,7.9,Net,100,40,NA,NA,NA,NA,0,0,0
+S0074,14/12/2022,Hin Yuan North,Koh Mun Nok,Rayong,523,4.5999999999999996,4.5999999999999996,Net,280,160,NA,NA,NA,NA,0,0,0
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,524,16.5,18,Net,610,80,NA,NA,NA,NA,0,0,0
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,525,18.899999999999999,18.899999999999999,Net,100,70,NA,NA,NA,NA,0,0,0
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,526,19.2,19.2,Net,700,70,NA,Inverts,A,Bivalves,6,7,13
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,526,19.2,19.2,Net,700,70,NA,Inverts,A,Malleus abus,3,2,5
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,526,19.2,19.2,Net,700,70,NA,Inverts,C,Murex (Unid),10,6,16
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,526,19.2,19.2,Net,700,70,NA,Inverts,A,Mussels,8,0,8
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,526,19.2,19.2,Net,700,70,NA,Inverts,A,Thorny Oyster,2,0,2
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,527,19.399999999999999,19.399999999999999,Cage,70,50,NA,NA,NA,NA,0,0,0
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,528,19.600000000000001,19.600000000000001,Net,170,75,NA,NA,NA,NA,0,0,0
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,529,15,15,Cage,60,28,40,Inverts,D,Cowrie,0,3,3
+S0075,44902,Petra Wreck,Petra Wreck,Rayong,529,15,15,Cage,60,28,40,Inverts,D,Melo Melo,0,1,1
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,530,16,16,Net,130,35,NA,Inverts,H,Long Spine Black Urchin,1,0,1
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,530,16,16,Net,130,35,NA,Inverts,B,Crabs (Unid),1,0,1
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,530,16,16,Net,130,35,NA,Fish,I,Fish (Unid),0,2,2
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,531,16,16,Net,250,75,NA,Inverts,B,Crabs (Unid),2,1,3
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,531,16,16,Net,250,75,NA,Fish,H,Damselfish,1,0,1
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,531,16,16,Net,250,75,NA,Fish,I,Fish (Unid),0,1,1
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,531,16,16,Net,250,75,NA,Inverts,A,Bivalves,0,1,1
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,532,15,15,Net,110,35,NA,Inverts,D,Cowrie,1,0,1
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,533,16,16,Net,60,20,NA,NA,NA,NA,0,0,0
+S0076,44902,Petra Wreck,Petra Wreck,Rayong,534,18,18,Net,330,320,NA,Inverts,A,Thorny Oyster,1,0,1
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,535,19.3,19.3,Net,410,70,NA,Inverts,B,Crabs (Unid),0,1,1
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,535,19.3,19.3,Net,410,70,NA,NA,NA,NA,NA,NA,0
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,536,15.3,15.3,Net,800,200,NA,Fish,A,Yellow-Stripe Trevally,1,1,2
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,536,15.3,15.3,Net,800,200,NA,NA,NA,NA,NA,NA,0
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,537,17.5,17.5,Net,630,250,NA,Inverts,B,Spider Crab,1,0,1
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,537,17.5,17.5,Net,630,250,NA,NA,NA,NA,NA,NA,0
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,537,17.5,17.5,Net,630,250,NA,Fish,I,Fish (Unid),0,4,4
+S0077,44902,Petra Wreck,Petra Wreck,Rayong,538,18,18,Hook/Lure,NA,NA,NA,NA,NA,NA,0,0,0
+S0078,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,539,9.6999999999999993,9.6999999999999993,Net,130,115,NA,NA,NA,NA,0,0,0
+S0078,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,540,9.6999999999999993,9.6999999999999993,Net,300,90,NA,NA,NA,NA,0,0,0
+S0078,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,541,9.6999999999999993,9.6999999999999993,Net,255,85,NA,NA,NA,NA,0,0,0
+S0078,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,542,9.5,9.5,Net,150,110,NA,Inverts,B,Crabs (Unid),2,0,2
+S0079,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,543,9.6999999999999993,9.6999999999999993,Net,90,30,NA,NA,NA,NA,0,0,0
+S0079,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,544,8.1999999999999993,8.1999999999999993,Net,125,40,NA,NA,NA,NA,0,0,0
+S0079,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,545,8.3000000000000007,8.3000000000000007,Net,130,50,NA,NA,NA,NA,0,0,0
+S0079,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,546,8.1999999999999993,8.1999999999999993,Net,75,20,NA,NA,NA,NA,0,0,0
+S0079,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,547,10.6,10.6,Net,200,80,NA,NA,NA,NA,0,0,0
+S0080,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,548,10,10,Net,140,80,NA,NA,NA,NA,NA,NA,0
+S0080,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,548,10,10,Net,140,80,NA,Fish,I,Fish (Unid),0,1,1
+S0080,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,549,9.4,9.4,Rope,90,NA,NA,NA,NA,NA,0,0,0
+S0080,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,550,9.4,9.4,Net,10,NA,NA,NA,NA,NA,0,0,0
+S0080,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,551,10,10,Net,NA,NA,NA,NA,NA,NA,0,0,0
+S0080,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,552,9.1999999999999993,9.1999999999999993,Net,100,90,NA,NA,NA,NA,0,0,0
+S0080,44902,Koh Mun Nok West,Koh Mun Nok,Rayong,553,9.1999999999999993,9.1999999999999993,Rope,200,NA,NA,NA,NA,NA,0,0,0
+S0081,44935,Koh Phi South,Koh Mak,Trat,554,11.4,11.4,Net,80,60,NA,NA,NA,NA,0,0,0
+S0082,44938,Koh Mak South,Koh Mak,Trat,555,5.4,5.4,Net,54,19,NA,NA,NA,NA,0,0,0
+S0083,44940,Koh Mak South,Koh Mak,Trat,556,5.4,5.4,Net,45,35,NA,NA,NA,NA,0,0,0
+S0084,44980,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,557,5,18,Net,3380,270,NA,Fish,B,Grouper,2,1,3
+S0084,44980,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,557,5,18,Net,3380,270,NA,Inverts,B,Crabs (Unid),7,0,7
+S0084,44980,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,557,5,18,Net,3380,270,NA,Fish,B,Scorpionfish,2,0,2
+S0084,44980,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,557,5,18,Net,3380,270,NA,Inverts,F,Hermit Crabs (Unid),2,0,2
+S0084,44980,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,557,5,18,Net,3380,270,NA,Fish,A,Barracuda,0,1,1
+S0084,44980,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,557,5,18,Net,3380,270,NA,Fish,I,Fish (Unid),0,1,1
+S0084,44980,Hin Ploeng South West Pinnacle,Hin Ploeng,Rayong,557,5,18,Net,3380,270,NA,Inverts,C,Ramose murex,0,1,1
+S0085,44617,Petra Wreck,Petra Wreck,Rayong,558,14.5,14.5,Line,490,NA,NA,NA,NA,NA,0,0,0
+S0085,44617,Petra Wreck,Petra Wreck,Rayong,559,18.899999999999999,18.899999999999999,Net,400,120,NA,Inverts,B,Crabs (Unid),0,1,1
+S0085,44617,Petra Wreck,Petra Wreck,Rayong,560,18.899999999999999,18.899999999999999,Line,890,NA,NA,NA,NA,NA,0,0,0
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,561,17.5,17.5,Net,300,20,NA,Inverts,B,Crabs (Unid),1,0,1
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,561,17.5,17.5,Net,300,20,NA,Fish,B,Scorpionfish,1,0,1
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,562,16,16,Net,340,30,NA,NA,NA,NA,0,0,0
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,563,16,16,Net,120,30,NA,NA,NA,NA,0,0,0
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,564,15.6,15.6,Net,60,10,NA,NA,NA,NA,0,0,0
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,565,18.8,18.8,Cage,50,50,NA,NA,NA,NA,0,0,0
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,566,16.2,16.2,Line,180,NA,NA,NA,NA,NA,0,0,0
+S0086,44981,Petra Wreck,Petra Wreck,Rayong,567,18.2,18.2,Net,180,180,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,568,14.9,14.9,Net,35,20,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,569,15.5,15.5,Line,90,NA,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,570,16.5,16.5,Line,NA,NA,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,571,17.399999999999999,17.399999999999999,Line,250,74,110,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,572,17.100000000000001,17.100000000000001,Line,26,NA,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,573,17.100000000000001,17.100000000000001,Line,100,NA,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,574,17.7,17.7,Line,70,NA,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,575,17.7,17.7,Line,80,NA,NA,NA,NA,NA,0,0,0
+S0087,44981,Petra Wreck,Petra Wreck,Rayong,576,17.8,17.8,Net,220,60,NA,Inverts,C,Ramose murex,2,0,2
+S0088,44981,Petra Wreck,Petra Wreck,Rayong,558,16,16,Line,90,10,NA,NA,NA,NA,0,0,0
+S0088,44981,Petra Wreck,Petra Wreck,Rayong,559,16.3,16.3,Line,80,10,NA,NA,NA,NA,0,0,0
+S0089,25/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,560,4.5,4.5,Net,180,50,NA,NA,NA,NA,0,0,0
+S0089,25/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,561,4.5,4.5,Rope,560,NA,NA,NA,NA,NA,0,0,0
+S0090,25/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,562,7.9,7.9,Cage,140,80,NA,NA,NA,NA,0,0,0
+S0090,25/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,563,9.1999999999999993,9.1999999999999993,Net,320,150,NA,NA,NA,NA,0,0,0
+S0090,25/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,564,9.1,9.1,Net,320,140,NA,NA,NA,NA,NA,NA,0
+S0091,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,565,7.1,7.1,Cage,180,80,NA,NA,NA,NA,0,0,0
+S0091,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,566,6.8,6.8,Net,120,10,NA,NA,NA,NA,0,0,0
+S0091,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,567,8,8,Net,150,35,NA,NA,NA,NA,0,0,0
+S0091,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,568,8,8,Line,50,NA,NA,NA,NA,NA,0,0,0
+S0091,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,569,8,8,Line,180,NA,NA,NA,NA,NA,0,0,0
+S0091,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,570,8.6,8.6,Cage,60,36,NA,NA,NA,NA,0,0,0
+S0092,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,571,4.5,4.5,Rope,164,30,NA,NA,NA,NA,0,0,0
+S0092,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,572,4,4,Net,240,50,NA,NA,NA,NA,0,0,0
+S0092,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,573,2.2999999999999998,2.2999999999999998,Net,283,150,NA,NA,NA,NA,0,0,0
+S0092,24/02/2023,Hin Yuan South,Koh Mun Nok,Rayong,574,8,8,Rope,133,28,NA,NA,NA,NA,0,0,0
+S0094,31/03/2023,Southwest of Koh Surin South,Koh Surin South,Phang nga,575,10.6,10.6,Net,100,30,NA,NA,NA,NA,0,0,0
+S0095,45017,Koh Mun Nok East,Koh Mun Nok,Rayong,576,6,6,Net,185,80,NA,Inverts,A,Bivalves,3,0,3
+S0095,45017,Koh Mun Nok East,Koh Mun Nok,Rayong,577,7,7,Rope,2300,NA,NA,Inverts,A,Bivalves,2,0,2
+S0096,45010,Koh Mun Nok North,Koh Mun Nok,Rayong,578,5.0999999999999996,5.0999999999999996,Rope,210,NA,NA,NA,NA,NA,0,0,0
+S0096,45010,Koh Mun Nok North,Koh Mun Nok,Rayong,579,5.0999999999999996,5.0999999999999996,Rope,130,NA,NA,NA,NA,NA,0,0,0
+S0096,45010,Koh Mun Nok North,Koh Mun Nok,Rayong,580,7.8,7.8,Rope,270,NA,NA,NA,NA,NA,0,0,0
+S0097,45024,Deep Block,-,Rayong,581,15.5,15.5,Net,400,90,NA,Inverts,B,Crabs (Unid),9,0,9
+S0097,45024,Deep Block,-,Rayong,582,15.3,15.3,Rope,160,NA,NA,NA,NA,NA,0,0,0
+S0098,13/04/2023,Koh Mun Nok West,Koh Mun Nok,Rayong,583,7.7,7.7,Net,1100,150,NA,Fish,D,8 Banded Butterflyfish,1,0,1
+S0098,13/04/2023,Koh Mun Nok West,Koh Mun Nok,Rayong,583,7.7,7.7,Net,1100,150,NA,Inverts,B,Crabs (Unid),1,1,2
+Yam,45146,Koh Sak NE,Pattaya,Chonburi,652,5,NA,Net,35,NA,NA,Inverts,B,NA,1,0,1
+Yam,45146,Koh Sak NE,Pattaya,Chonburi,652,5,NA,Net,35,NA,NA,Inverts,C,ramose,1,NA,1
+NA,45145,Koh Krok West,Pattaya,Chonburi,591,2.8,NA,Rope,900,NA,NA,Inverts,A,Oyster,2,NA,2
+NA,45115,Koh Sak W,Pattaya,Chonburi,600,11,NA,Net,28,15,NA,Inverts,A,NA,NA,1,1
+NA,45115,Koh Sak W,Pattaya,Chonburi,606,8,NA,Net,300,490,NA,Inverts,A,NA,NA,1,1
+Yam,45146,Koh Sak NE,Pattaya,Chonburi,652,5,NA,Net,35,NA,NA,Fish,I,NA,NA,2,2
+NA,45115,Koh Sak W,Pattaya,Chonburi,607,7,NA,Line,190,NA,NA,Inverts,B,Crabs (Unid),1,NA,1

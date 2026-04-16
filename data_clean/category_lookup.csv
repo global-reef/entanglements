@@ -1,0 +1,25 @@
+taxon_raw,family,category_code,category,functional_group,ecosystem_role,ecosystem_benefit
+Trevally,Carangidae,A,Predator - Midwater,Piscivore,Predator,Trophic Stability
+Yellow-Stripe Trevally,Carangidae,A,Predator - Midwater,Piscivore,Predator,Trophic Stability
+"Russel's snapper
+(Lutjanus rusellii)",Lutjanus,A,Predator - Midwater,Mesopredator,Predator,Trophic Stability
+Barracuda,Sphyrenadae,A,Predator - Midwater,Predator,Predator,Trophic Stability
+Grouper,Epinephelus,B,Predator - Demersal,HTLP,Predator,Trophic Stability
+Grouper,Epinephelus,B,Predator - Demersal,Piscivore,Predator,Trophic Stability
+Scorpionfish,NA,B,Predator - Demersal,Piscivore,Predator,Trophic Stability
+Fusilier fish,Caesonidae,C,Midwater Schooling,Planktivore,Nutrient Cycling,Productivity
+Batfish,Platax,C,Midwater Schooling,Invertivore,Herbivory,Reef Resilience
+Dusky Rabbitfish,Signanidae,C,Midwater Schooling,Herbivore,Herbivory,Reef Resilience
+Rabbitfish,Signanidae,C,Midwater Schooling,Herbivore,Herbivory,Reef Resilience
+8 Banded Butterflyfish,Chaetodontidae,D,Reef Specific,Invertivore,??,Reef Resilience
+Bream Fish,NA,E,Breams,Invertivore,Predator,Trophic Stability
+Pufferfish,Tetrodontidae,F,Puffer/Porcupine,Invertivore,Predator,Trophic Stability
+"Moray Eel
+ (Gymnothorax sp.)",Maurenae,G,Eels,Mesopredator,Predator,Trophic Stability
+Squirrelfish,Holocentridae,H,Misc.,Invertivore,Predator,Trophic Stability
+Damselfish,Pomecentridae,H,Misc.,Herbivore,Herbivory,Reef Resilience
+Filefish,NA,H,Misc.,Invertivore,Herbivory,Reef Resilience
+Fish (Unid),UNKN,I,Unidentified,NA,NA,NA
+Fish (Unid),UNKN,I,Unidentified,NA,NA,NA
+Cardinalfish,Apogonidae.sp,NA,NA,??,??,NA
+Porcupinefish,Diodontidae,NA,NA,Invertivore,Predation,Trophic Stability

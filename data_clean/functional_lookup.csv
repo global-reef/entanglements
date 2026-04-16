@@ -1,0 +1,27 @@
+sci_name,taxon_raw,family,category_code,category,functional_group,trophic_group,herbivore_class,predator_class,ecosystem_role,ecosystem_benefit,functional_source,notes
+"Russel's snapper
+(Lutjanus rusellii)","Russel's snapper
+(Lutjanus rusellii)",Lutjanus,A,Predator - Midwater,Mesopredator,piscivore,NA,midwater_predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+"Moray Eel
+ (Gymnothorax sp.)","Moray Eel
+ (Gymnothorax sp.)",Maurenae,G,Eels,Mesopredator,NA,medium,predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+NA,Fish (Unid),UNKN,I,Unidentified,NA,NA,NA,NA,NA,NA,MARsCI_FishDataset,NA
+NA,Fish (Unid),UNKN,I,Unidentified,NA,NA,NA,NA,NA,NA,MARsCI_FishDataset,NA
+Grouper,Grouper,Epinephelus,B,Predator - Demersal,HTLP,piscivore,NA,demersal_predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Grouper,Grouper,Epinephelus,B,Predator - Demersal,Piscivore,piscivore,NA,demersal_predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Pufferfish,Pufferfish,Tetrodontidae,F,Puffer/Porcupine,Invertivore,invertivore,NA,NA,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Bream Fish,Bream Fish,NA,E,Breams,Invertivore,invertivore,NA,NA,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Cardinalfish,Cardinalfish,Apogonidae.sp,H,Misc.,Invertivore,Invertivore,NA,NA,Trophic Transfer,Trophic Stability,MARsCI_FishDataset,NA
+Filefish,Filefish,NA,H,Misc.,Invertivore,invertivore,NA,NA,Herbivory,Reef Resilience,MARsCI_FishDataset,NA
+Dusky Rabbitfish,Dusky Rabbitfish,Signanidae,C,Midwater Schooling,Herbivore,herbivore,high,NA,Herbivory,Reef Resilience,MARsCI_FishDataset,NA
+Rabbitfish,Rabbitfish,Signanidae,C,Midwater Schooling,Herbivore,herbivore,high,NA,Herbivory,Reef Resilience,MARsCI_FishDataset,NA
+Damselfish,Damselfish,Pomecentridae,H,Misc.,Herbivore,herbivore,medium,NA,Herbivory,Reef Resilience,MARsCI_FishDataset,NA
+Porcupinefish,Porcupinefish,Diodontidae,NA,NA,Invertivore,invertivore,NA,NA,Predation,Trophic Stability,MARsCI_FishDataset,NA
+Fusilier fish,Fusilier fish,Caesonidae,C,Midwater Schooling,Planktivore,planktivore,NA,NA,Nutrient Cycling,Productivity,MARsCI_FishDataset,NA
+Batfish,Batfish,Platax,C,Midwater Schooling,Invertivore,invertivore,NA,NA,Herbivory,Reef Resilience,MARsCI_FishDataset,NA
+Squirrelfish,Squirrelfish,Holocentridae,H,Misc.,Invertivore,invertivore,NA,NA,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Trevally,Trevally,Carangidae,A,Predator - Midwater,Piscivore,piscivore,NA,midwater_predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Yellow-Stripe Trevally,Yellow-Stripe Trevally,Carangidae,A,Predator - Midwater,Piscivore,piscivore,NA,midwater_predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Scorpionfish,Scorpionfish,NA,B,Predator - Demersal,Piscivore,piscivore,NA,demersal_predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+Barracuda,Barracuda,Sphyrenadae,A,Predator - Midwater,Predator,piscivore,NA,midwater_predator,Predator,Trophic Stability,MARsCI_FishDataset,NA
+8 Banded Butterflyfish,8 Banded Butterflyfish,Chaetodontidae,D,Reef Specific,Invertivore,invertivore,NA,NA,Corallivore,Reef Resilience,MARsCI_FishDataset,NA
