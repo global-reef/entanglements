@@ -37,3 +37,6 @@ entanglements_joined %>%
   filter(is.na(price_mean_thb)) %>%
   distinct(common_name) %>%
   arrange(common_name)
+
+
+hist(entanglements_joined$n_indiv)
