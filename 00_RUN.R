@@ -56,8 +56,8 @@ writeLines(
 )
 
 ### run pipeline ####
-source("01_CLEAN.R")
-source("01.5_JOIN.R")
+# source("01_CLEAN.R")
+# source("01.5_JOIN.R")
 source("02_EXPLORE.R")
 source("03_MODEL.R")
 
