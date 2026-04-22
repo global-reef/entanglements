@@ -59,6 +59,6 @@ writeLines(
 # source("01_CLEAN.R")
 # source("01.5_JOIN.R")
 source("02_EXPLORE.R")
-source("03_MODEL.R")
+source("03_VALUE.R")
 
 message("Run complete: ", analysis_date)

@@ -219,11 +219,37 @@ aesthetic_lookup <- read_csv("data_raw/aesthetic_lookup.csv", show_col_types = F
 write_csv(aesthetic_lookup, "data_raw/aesthetic_lookup.csv") 
 
 ### 06. ESVD values  ####
+esvd_raw <- tribble(
+  ~service,      ~value_usd, ~country,       ~reference,
+  "recreation",  1016,       "Indonesia",    "Rumahorbo et al. 2020",
+  "recreation",  59624,      "Indonesia",    "Windayati et al. 2022",
+  "recreation",  224.5,      "Philippines",  "Samonte-Tan and Armedilla 2004",
+  "recreation",  27.6,       "Philippines",  "Samonte-Tan and Armedilla 2004",
+  "recreation",  0.1,        "Philippines",  "Samonte-Tan and Armedilla 2004",
+  "recreation",  170.1,      "Philippines",  "Samonte-Tan and Armedilla 2004",
+  "recreation",  120.5,      "Korea",        "Park et al.",
+  "recreation",  433.2,      "Vietnam",      "Lan et al.",
+  "recreation",  867.8,      "Vietnam",      "Lan et al.",
+  "recreation",  2806,       "Vietnam",      "Lan et al.",
+  "recreation",  11.3,       "Indonesia",    "Yasir Haya and Fujii",
+  "recreation",  5.2,        "Indonesia",    "Yasir Haya and Fujii",
+  "recreation",  16771,      "Japan",        "Nohara et al."
+)
 
-esvd_values_raw <- esvd %>%
-  rename_with(~tolower(gsub(" ", "_", .x)))
 
-write_csv(esvd_values_raw, "data_raw/esvd_values_raw.csv")
+esvd_lookup <- esvd_raw %>%
+  group_by(service) %>%
+  summarise(
+    esvd_low  = min(value_usd, na.rm = TRUE),
+    esvd_mid  = median(value_usd, na.rm = TRUE),
+    esvd_high = max(value_usd, na.rm = TRUE),
+    n_values  = n(),
+    .groups = "drop"
+  )
+
+esvd_lookup
+write_csv(esvd_raw, "data_clean/esdv_raw.csv")
+write_csv(esvd_lookup, "data_clean/esdv_lookup.csv")
 
 ### 07. all ALDFG ####
 
@@ -247,6 +273,31 @@ function_coefficients <- entanglements_clean %>%
   )
 
 write_csv(function_coefficients, "data_raw/function_coefficients.csv")
+
+# read once
+coefs_raw <- read_csv("data_raw/fun_coefs_raw.csv")
+
+# build species + family summaries in one go
+coef_lookup <- coefs_raw %>%
+  filter(family == "Siganidae", coef_units == "g_per_hour") %>%
+  group_by(sci_name) %>%
+  summarise(
+    coef_low  = min(coef_value, na.rm = TRUE),
+    coef_mid  = median(coef_value, na.rm = TRUE),
+    coef_high = max(coef_value, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# family fallback (single row)
+family_fallback <- coefs_raw %>%
+  filter(family == "Siganidae", coef_units == "g_per_hour") %>%
+  summarise(
+    coef_low  = min(coef_value, na.rm = TRUE),
+    coef_mid  = median(coef_value, na.rm = TRUE),
+    coef_high = max(coef_value, na.rm = TRUE)
+  )
+
+write_csv(coef_lookup, "data_clean/coef_lookup.csv")
 
 ### 09. mass lookup (SCAFFOLD) ####
 

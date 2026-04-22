@@ -1,0 +1,21 @@
+sci_name,common_name,family,functional_group,ecosystem_benefit,n_records,total_indiv,tier1_priced_n,tier1_value_min_thb,tier1_value_mean_thb,tier1_value_max_thb,tier3_scored_n,tier3_aesthetic_index
+Epinephelus spp.,Grouper,Epinephelus,Piscivore,Trophic Stability,5,8,5,960,1770,2400,5,11476.043656
+Platax spp.,Batfish,Platax,Invertivore,Reef Resilience,1,6,1,900,900,900,1,9840
+Siganus spp.,Rabbitfish,Siganidae,Herbivore,Reef Resilience,3,5,3,500,500,500,3,7920
+Carangidae spp.,Trevally,Carangidae,Piscivore,Trophic Stability,1,2,1,300,377.5,400,1,2839.527608
+Selaroides leptolepis,Yellowstripe trevally,Carangidae,Piscivore,Trophic Stability,1,2,1,200,200,200,1,2604
+Lutjanus russellii,Russell's snapper,NA,Piscivore,Trophic Stability,1,1,1,150,150,150,1,1331
+Sphyraena spp.,Barracuda,Sphyrenadae,Predator,Trophic Stability,1,1,1,100,125.2,150,1,1298
+Apogonidae spp.,Cardinalfish,Apogonidae.sp,??,NA,1,1,0,0,0,0,1,1354.117694
+Caesionidae spp.,Fusilier,Caesonidae,Planktivore,Productivity,1,1,0,0,0,0,1,1463.596829
+Chaetodon octofasciatus,8 Banded Butterflyfish,Chaetodontidae,Invertivore,Reef Resilience,1,1,0,0,0,0,1,1699
+Diodontidae spp.,Porcupinefish,Diodontidae,Invertivore,Trophic Stability,1,2,0,0,0,0,1,3089.80961
+Gymnothorax sp.,Moray eel,NA,Piscivore,Trophic Stability,1,1,0,0,0,0,1,1466.789591
+Holocentridae spp.,Squirrelfish,Holocentridae,Invertivore,Trophic Stability,1,1,0,0,0,0,1,1496.425116
+Monacanthidae spp.,Filefish,NA,Invertivore,Reef Resilience,1,1,0,0,0,0,1,1627
+Nemipteridae spp.,Bream,NA,Invertivore,Trophic Stability,1,1,0,0,0,0,1,1382.439276
+Pomacentridae spp.,Damselfish,Pomecentridae,Herbivore,Reef Resilience,2,2,0,0,0,0,2,2944.353886
+Scorpaenidae spp.,Scorpionfish,NA,Piscivore,Trophic Stability,2,3,0,0,0,0,2,4500
+Siganus luridus,Dusky rabbitfish,Siganidae,Herbivore,Reef Resilience,1,1,0,0,0,0,1,1446
+Tetraodontidae spp.,Pufferfish,Tetrodontidae,Invertivore,Trophic Stability,1,1,0,0,0,0,1,1467.715244
+NA,Unknown fish,UNKN,NA,NA,9,16,0,0,0,0,9,23969.585696000002

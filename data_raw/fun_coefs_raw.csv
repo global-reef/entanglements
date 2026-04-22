@@ -1,0 +1,32 @@
+sci_name,family,coef_type,coef_value,coef_units,study_region,citation_key,assumption_level,notes
+Siganus_virgatus,Siganidae,herbivory_rate,3.29,msbites_per_hour,Gulf_of_Thailand,Muller_2021,direct,"(+/-) 0.17, single choice assay"
+Siganus_virgatus,Siganidae,herbivory_rate,0.21,msbites_per_hour,Gulf_of_Thailand,Muller_2021,direct,"(+/-) 0.09, multiple choice assay"
+Siganus_guttatus,Siganidae,herbivory_rate,0.08,msbites_per_hour,Gulf_of_Thailand,Muller_2021,direct,"(+/-) 0.32, mulitple choice assay"
+Siganus_corallinus,Siganidae,herbivory_rate,0.16,msbites_per_hour,Gulf_of_Thailand,Muller_2021,direct,"(+/-) 0.19, single choice assay"
+Siganus_corallinus,Siganidae,herbivory_rate,0.05,msbites_per_hour,Gulf_of_Thailand,Muller_2021,direct,"(+/-) 0.14, multiple choice assay"
+Scarus_rivulatus,Scaridae,herbivory_rate,0.05,msbites_per_hour,Gulf_of_Thailand,Muller_2021,direct,"(+/-) 0.17, multiple choice assay"
+Siganus_virgatus,Siganidae,herbivory_rate,135.1,msbites_per_hour,South_Singapore,Bauman_2017,direct,Location 1 - farthest from port
+Siganus_virgatus,Siganidae,herbivory_rate,36.1,msbites_per_hour,South_Singapore,Bauman_2017,direct,Location 2 - second farthest from port
+Siganus_virgatus,Siganidae,herbivory_rate,17.5,msbites_per_hour,South_Singapore,Bauman_2017,direct,Location 3-7 - all closer to port
+Siganus_virgatus,Siganidae,herbivory_rate,0.7,g_per_hour,South_Singapore,Bauman_2017,derived,percent biomass from supplemntal data and algal removal of 2 most representative reefs
+Scarus_rivulatus,Scaridae,herbivory_rate,3.96,g_per_hour,South_Singapore,Bauman_2017,derived,percent biomass from supplemntal data and algal removal of 2 most representative reefs
+Siganus_guttatus,Siganidae,herbivory_rate,0.49,g_per_hour,South_Singapore,Bauman_2017,derived,percent biomass from supplemntal data and algal removal of 2 most representative reefs
+Scarus_ghobban,Scaridae,herbivory_rate,1.38,g_per_hour,South_Singapore,Bauman_2017,derived,percent biomass from supplemntal data and algal removal of 2 most representative reefs
+Siganus_virgatus,Siganidae,herbivory_rate,3.3,g_per_hour,South_Singapore,Bauman_2017,derived,"conservative assumption of virgatus being ""responsible for majority of feeding"" 50% of algal removal of 2 most representative locations"
+Siganus_virgatus,Siganidae,herbivory_rate,4.2,g_per_hour,South_Singapore,Bauman_2017,derived,"mid assumption of virgatus being ""responsible for majority of feeding"" 65% of algal removal of 2 most representative locations"
+Siganus_virgatus,Siganidae,herbivory_rate,5.4,g_per_hour,South_Singapore,Bauman_2017,derived,"high assumption of virgatus being ""responsible for majority of feeding"" 83% of algal removal of 2 most representative locations based on virgatus accounting for 83% of msbites"
+Siganus_doliatus,Siganidae,herbivory_rate,5.9,msbites_per_hour,North_GBR,Bennett_2011,derived,"calculated using given quantities and percentages for ""4 dominant feeders"" using 25% of each quantity"
+Siganus_doliatus,Siganidae,herbivory_rate,8.4,g_per_hour,North_GBR,Bennett_2011,derived,"calculated using given quantities and percentages for ""4 dominant feeders"" using 25% of each quantity"
+Siganus_doliatus,Siganidae,herbivory_rate,10.2,msbites_per_hour,Central_GBR,Bennett_2011,derived,"calculated using given quantities and percentages for ""4 dominant feeders"" using 25% of each quantity"
+Siganus_doliatus,Siganidae,herbivory_rate,9.6,g_per_hour,Central_GBR,Bennett_2011,derived,"calculated using given quantities and percentages for ""4 dominant feeders"" using 25% of each quantity"
+Siganus_doliatus,Siganidae,herbivory_rate,0.3,msbites_per_hour,South_GBR,Bennett_2011,derived,"calculated using given quantities and percentages for ""4 dominant feeders"" using 25% of each quantity"
+Siganus_doliatus,Siganidae,herbivory_rate,0.9,g_per_hour,South_GBR,Bennett_2011,derived,"calculated using given quantities and percentages for ""4 dominant feeders"" using 25% of each quantity"
+Scarus_ghobban,Scaridae,herbivory_rate,7.21,msbites_per_hour,South_Singapore,Seah_2021,direct,"averaged over a year of data collection, number from data pooled across 3 sites so have divided by 3 for number here"
+Scarus_rivulatus,Scaridae,herbivory_rate,79.7,msbites_per_hour,South_Singapore,Seah_2021,direct,"averaged over a year of data collection, number from data pooled across 3 sites so have divided by 3 for number here"
+Siganus_canaliculatus,Siganidae,herbivory_rate,13.5,msbites_per_hour,South_Singapore,Seah_2021,direct,"averaged over a year of data collection, number from data pooled across 3 sites so have divided by 3 for number here"
+Siganus_corallinus,Siganidae,herbivory_rate,1.1,msbites_per_hour,South_Singapore,Seah_2021,direct,"averaged over a year of data collection, number from data pooled across 3 sites so have divided by 3 for number here"
+Siganus_javus,Siganidae,herbivory_rate,27.5,msbites_per_hour,South_Singapore,Seah_2021,direct,"averaged over a year of data collection, number from data pooled across 3 sites so have divided by 3 for number here"
+Siganus_punctatus,Siganidae,herbivory_rate,0.31,msbites_per_hour,South_Singapore,Seah_2021,direct,"averaged over a year of data collection, number from data pooled across 3 sites so have divided by 3 for number here"
+Siganus_virgatus,Siganidae,herbivory_rate,662.8,msbites_per_hour,South_Singapore,Seah_2021,direct,"averaged over a year of data collection, number from data pooled across 3 sites so have divided by 3 for number here"
+Siganus_virgatus,Siganidae,herbivory_rate,1.9,g_per_hour,South_Singapore,Seah_2021,derived,"using average removal from the year, assumed virg was responsible for 70% based on 80% of msbites and statements of it being the dominant feeder for most of year"
+Scarus_rivulatus,Scaridae,herbivory_rate,0.82,g_per_hour,South_Singapore,Seah_2021,derived,"using average removal from the year, riv was mentioned as second most dominant feeder, taking over in months when virg not feeding as much, assumed 30% of total "

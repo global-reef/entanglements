@@ -1,0 +1,7 @@
+SCENARIO EXTRAPOLATION SUMMARY
+Total DFG items (MARsCI): 606
+Fish entanglement events: 36
+P(entanglement | gear): 0.0594
+Mean net area (m2): 4.31
+Mean event Tier 1 THB: 111.74
+Expected Tier 1 THB per retained gear: 6.64

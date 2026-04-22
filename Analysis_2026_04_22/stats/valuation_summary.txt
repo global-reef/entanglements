@@ -1,0 +1,7 @@
+VALUATION SUMMARY
+Rows: 36
+Total individuals: 57
+Tier 1 priced rows: 13
+Tier 1 mean total (THB): 4022.7
+Tier 3 scored rows: 36
+Tier 3 total aesthetic index: 85215.4

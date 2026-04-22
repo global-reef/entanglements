@@ -1,0 +1,33 @@
+==============================
+ALDFG ECONOMIC VALUATION SUMMARY
+==============================
+
+EMPIRICAL BASE (MARsCI DATA):
+Total DFG items assessed: 606
+Fish entanglement events: 36
+P(entanglement | gear): 0.0594
+
+TIER 1: DIRECT MARKET VALUE
+Mean value per entanglement event: 111.74 THB (3.19 USD)
+Expected value per ALDFG item: 6.64 THB (0.19 USD)
+
+SCENARIO ASSUMPTIONS:
+Fishing vessels range: 10000 – 57000
+Net loss rates (Richardson et al. 2022): 1,813 – 58,131 m2 per vessel per year
+Converted using mean net size (Mehrotra et al.): 4.31 m2 per item
+Retention factor range: 0.05 – 0.2
+Exchange rate used: 1 USD = 35 THB
+
+ESTIMATED ALDFG LOAD:
+Effective ALDFG items per year: 210,325 – 153,757,169
+
+NATIONAL ECONOMIC IMPACT:
+Lower bound: 1,079,390 THB (30,840 USD)
+Central (mean): 271,354,617 THB (7,752,989 USD)
+Upper bound: 1,192,506,099 THB (34,071,603 USD)
+
+INTERPRETATION:
+Values represent scenario-based estimates of annual fisheries loss
+associated with reef-retained ALDFG, not total national loss.
+Results are sensitive to gear loss rates and retention assumptions.
+
